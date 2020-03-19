@@ -13,12 +13,12 @@ TABLE Team (Team);
 
 FORM Team 'Команда'
     OBJECTS t = Team PANEL
-    PROPERTIES(t) name
-    
+    PROPERTIES(t) name 
+ 
     EDIT Team OBJECT t
 ;
 
-defaultIndex 'Номер п/п' (Team o) = PARTITION SUM 1 IF o IS Team ORDER o CHARWIDTH 4;
+defaultIndex 'Номер п/п' (Team o) = PARTITION SUM 1 IF o IS Team ORDER o CHARWIDTH 4 NOFLEX ;
      
 FORM Teams 'Команды'
     OBJECTS o = Team
@@ -29,7 +29,7 @@ FORM Teams 'Команды'
 FORM dialogTeam 'Команда'
     OBJECTS o = Team
     PROPERTIES(o) READONLY name
-    
+    PROPERTIES(o) NEWSESSION NEW, EDIT, DELETE
     LIST Team OBJECT o
 ;
  

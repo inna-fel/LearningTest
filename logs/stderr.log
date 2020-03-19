@@ -23,3 +23,57 @@ Caused by: org.postgresql.util.PSQLException: FATAL: password authentication fai
 	at lsfusion.server.data.sql.adapter.DataAdapter.ensure(DataAdapter.java:68)
 	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:187)
 	... 8 more
+19 мар 2020 15:03:08,227 ERROR LogicsModule - lsfusion.gwt.client.base.exception.RemoteRetryException no such object in table at '19.03.20 15:03' from '0:0:0:0:0:0:0:1 - web': 
+null
+	at java.lang.Throwable.Throwable(Throwable.java:60)
+	at java.lang.Exception.Exception(Exception.java:25)
+	at net.customware.gwt.dispatch.shared.DispatchException.DispatchException(DispatchException.java:15)
+	at lsfusion.gwt.client.base.exception.RemoteRetryException.RemoteRetryException(RemoteRetryException.java:8)
+	at lsfusion.gwt.client.base.exception.RemoteRetryException_FieldSerializer.instantiate(RemoteRetryException_FieldSerializer.java:17)
+	at com.google.gwt.user.client.rpc.impl.SerializerBase$MethodMap.$instantiate(SerializerBase.java:55)
+	at com.google.gwt.user.client.rpc.impl.SerializerBase.$instantiate(SerializerBase.java:112)
+	at com.google.gwt.user.client.rpc.impl.AbstractSerializationStreamReader.$readObject(AbstractSerializationStreamReader.java:129)
+	at com.google.gwt.user.client.rpc.impl.RequestCallbackAdapter.$onResponseReceived(RequestCallbackAdapter.java:216)
+	at com.google.gwt.http.client.Request.$fireOnResponseReceived(Request.java:250)
+	at com.google.gwt.http.client.RequestBuilder$1.onReadyStateChange(RequestBuilder.java:412)
+	at Unknown.anonymous(Unknown Source)
+	at com.google.gwt.core.client.impl.Impl.apply(Impl.java:309)
+	at com.google.gwt.core.client.impl.Impl.entry0(Impl.java:368)
+	at Unknown.anonymous(Unknown Source)
+
+19 мар 2020 15:10:46,896 ERROR LogicsModule - lsfusion.gwt.client.base.exception.RemoteRetryException no such object in table at '19.03.20 15:10' from '0:0:0:0:0:0:0:1 - web': 
+null
+	at java.lang.Throwable.Throwable(Throwable.java:60)
+	at java.lang.Exception.Exception(Exception.java:25)
+	at net.customware.gwt.dispatch.shared.DispatchException.DispatchException(DispatchException.java:15)
+	at lsfusion.gwt.client.base.exception.RemoteRetryException.RemoteRetryException(RemoteRetryException.java:8)
+	at lsfusion.gwt.client.base.exception.RemoteRetryException_FieldSerializer.instantiate(RemoteRetryException_FieldSerializer.java:17)
+	at com.google.gwt.user.client.rpc.impl.SerializerBase$MethodMap.$instantiate(SerializerBase.java:55)
+	at com.google.gwt.user.client.rpc.impl.SerializerBase.$instantiate(SerializerBase.java:112)
+	at com.google.gwt.user.client.rpc.impl.AbstractSerializationStreamReader.$readObject(AbstractSerializationStreamReader.java:129)
+	at com.google.gwt.user.client.rpc.impl.RequestCallbackAdapter.$onResponseReceived(RequestCallbackAdapter.java:216)
+	at com.google.gwt.http.client.Request.$fireOnResponseReceived(Request.java:250)
+	at com.google.gwt.http.client.RequestBuilder$1.onReadyStateChange(RequestBuilder.java:412)
+	at Unknown.anonymous(Unknown Source)
+	at com.google.gwt.core.client.impl.Impl.apply(Impl.java:309)
+	at com.google.gwt.core.client.impl.Impl.entry0(Impl.java:368)
+	at Unknown.anonymous(Unknown Source)
+
+19 мар 2020 15:12:04,721 ERROR LogicsModule - lsfusion.gwt.client.base.exception.RemoteRetryException no such object in table at '19.03.20 15:12' from '0:0:0:0:0:0:0:1 - web': 
+null
+	at java.lang.Throwable.Throwable(Throwable.java:60)
+	at java.lang.Exception.Exception(Exception.java:25)
+	at net.customware.gwt.dispatch.shared.DispatchException.DispatchException(DispatchException.java:15)
+	at lsfusion.gwt.client.base.exception.RemoteRetryException.RemoteRetryException(RemoteRetryException.java:8)
+	at lsfusion.gwt.client.base.exception.RemoteRetryException_FieldSerializer.instantiate(RemoteRetryException_FieldSerializer.java:17)
+	at com.google.gwt.user.client.rpc.impl.SerializerBase$MethodMap.$instantiate(SerializerBase.java:55)
+	at com.google.gwt.user.client.rpc.impl.SerializerBase.$instantiate(SerializerBase.java:112)
+	at com.google.gwt.user.client.rpc.impl.AbstractSerializationStreamReader.$readObject(AbstractSerializationStreamReader.java:129)
+	at com.google.gwt.user.client.rpc.impl.RequestCallbackAdapter.$onResponseReceived(RequestCallbackAdapter.java:216)
+	at com.google.gwt.http.client.Request.$fireOnResponseReceived(Request.java:250)
+	at com.google.gwt.http.client.RequestBuilder$1.onReadyStateChange(RequestBuilder.java:412)
+	at Unknown.anonymous(Unknown Source)
+	at com.google.gwt.core.client.impl.Impl.apply(Impl.java:309)
+	at com.google.gwt.core.client.impl.Impl.entry0(Impl.java:368)
+	at Unknown.anonymous(Unknown Source)
+

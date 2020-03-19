@@ -333,3 +333,500 @@
 19 мар 2020 14:57:02,232  INFO StartLogger - Java Web Start (with auto update, requires JDK): https://download.lsfusion.org/java/lsfusion-client-3.0.jnlp
 19 мар 2020 14:57:02,233  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-3.0-x64.exe
 19 мар 2020 14:57:02,233  INFO StartLogger - Server has successfully started in 12008 ms.
+19 мар 2020 15:00:29,171  INFO StartLogger - Server is starting...
+19 мар 2020 15:00:30,063  INFO StartLogger - Logics instance is starting...
+19 мар 2020 15:00:30,069  INFO StartLogger - Initializing BusinessLogics
+19 мар 2020 15:00:30,074  INFO StartLogger - Creating modules
+19 мар 2020 15:00:30,074  INFO StartLogger - Initializing localizer
+19 мар 2020 15:00:30,496  INFO StartLogger - Initializing dependencies
+19 мар 2020 15:00:30,624  INFO StartLogger - Initializing modules order
+19 мар 2020 15:00:30,625  INFO StartLogger - Initializing metacodes and classes
+19 мар 2020 15:00:30,856  INFO StartLogger - Initializing object class
+19 мар 2020 15:00:30,858  INFO StartLogger - Initializing tables
+19 мар 2020 15:00:30,911  INFO StartLogger - Initializing class tables
+19 мар 2020 15:00:30,963  INFO StartLogger - Initializing full tables with one key
+19 мар 2020 15:00:30,963  INFO StartLogger - Initializing main logic
+19 мар 2020 15:00:30,969  INFO StartLogger - Initializing main logic for module : #1 of 42 System (actual: 1)
+19 мар 2020 15:00:31,377  INFO StartLogger - Initializing main logic for module : #2 of 42 Geo (actual: 34)
+19 мар 2020 15:00:31,377  INFO StartLogger - Initializing main logic for module : #5 of 42 ProcessUtils (actual: 33)
+19 мар 2020 15:00:31,377  INFO StartLogger - Initializing main logic for module : #6 of 42 Time (actual: 4)
+19 мар 2020 15:00:31,377  INFO StartLogger - Initializing main logic for module : #3 of 42 Sound (actual: 32)
+19 мар 2020 15:00:31,377  INFO StartLogger - Initializing main logic for module : #4 of 42 Integration (actual: 26)
+19 мар 2020 15:00:31,379  INFO StartLogger - Initializing main logic for module : #7 of 42 Printer (actual: 16)
+19 мар 2020 15:00:31,382  INFO StartLogger - Initializing main logic for module : #8 of 42 MasterData (actual: 6)
+19 мар 2020 15:00:31,385  INFO StartLogger - Initializing main logic for module : #9 of 42 Authentication (actual: 2)
+19 мар 2020 15:00:31,388  INFO StartLogger - Initializing main logic for module : #10 of 42 DefaultData (actual: 13)
+19 мар 2020 15:00:31,388  INFO StartLogger - Initializing main logic for module : #11 of 42 Image (actual: 17)
+19 мар 2020 15:00:31,389  INFO StartLogger - Initializing main logic for module : #12 of 42 Main (actual: 42)
+19 мар 2020 15:00:31,390  INFO StartLogger - Initializing main logic for module : #13 of 42 Numerator (actual: 18)
+19 мар 2020 15:00:31,393  INFO StartLogger - Initializing main logic for module : #14 of 42 OpenCV (actual: 39)
+19 мар 2020 15:00:31,396  INFO StartLogger - Initializing main logic for module : #15 of 42 Com (actual: 29)
+19 мар 2020 15:00:31,446  INFO StartLogger - Initializing main logic for module : #16 of 42 Utils (actual: 7)
+19 мар 2020 15:00:31,495  INFO StartLogger - Initializing main logic for module : #17 of 42 Historizable (actual: 22)
+19 мар 2020 15:00:31,495  INFO StartLogger - Initializing main logic for module : #18 of 42 Reflection (actual: 3)
+19 мар 2020 15:00:31,495  INFO StartLogger - Initializing main logic for module : #19 of 42 Document (actual: 19)
+19 мар 2020 15:00:31,495  INFO StartLogger - Initializing main logic for module : #20 of 42 Fax (actual: 41)
+19 мар 2020 15:00:31,496  INFO StartLogger - Initializing main logic for module : #21 of 42 Hierarchy (actual: 23)
+19 мар 2020 15:00:31,496  INFO StartLogger - Initializing main logic for module : #22 of 42 Schedule (actual: 40)
+19 мар 2020 15:00:31,500  INFO StartLogger - Initializing main logic for module : #23 of 42 I18n (actual: 28)
+19 мар 2020 15:00:31,517  INFO StartLogger - Initializing main logic for module : #24 of 42 ProcessMonitor (actual: 20)
+19 мар 2020 15:00:31,517  INFO StartLogger - Initializing main logic for module : #25 of 42 Excel (actual: 24)
+19 мар 2020 15:00:31,617  INFO StartLogger - Initializing main logic for module : #26 of 42 Email (actual: 9)
+19 мар 2020 15:00:31,617  INFO StartLogger - Initializing main logic for module : #27 of 42 SystemEvents (actual: 5)
+19 мар 2020 15:00:31,617  INFO StartLogger - Initializing main logic for module : #28 of 42 Messenger (actual: 30)
+19 мар 2020 15:00:31,632  INFO StartLogger - Initializing main logic for module : #29 of 42 Viber (actual: 35)
+19 мар 2020 15:00:31,643  INFO StartLogger - Initializing main logic for module : #30 of 42 Slack (actual: 38)
+19 мар 2020 15:00:31,664  INFO StartLogger - Initializing main logic for module : #31 of 42 Telegram (actual: 31)
+19 мар 2020 15:00:31,668  INFO StartLogger - Initializing main logic for module : #32 of 42 Skype (actual: 36)
+19 мар 2020 15:00:31,803  INFO StartLogger - Initializing main logic for module : #33 of 42 Word (actual: 8)
+19 мар 2020 15:00:31,810  INFO StartLogger - Initializing main logic for module : #34 of 42 Security (actual: 10)
+19 мар 2020 15:00:31,929  INFO StartLogger - Initializing main logic for module : #35 of 42 Service (actual: 11)
+19 мар 2020 15:00:32,030  INFO StartLogger - Initializing main logic for module : #36 of 42 Chat (actual: 27)
+19 мар 2020 15:00:32,030  INFO StartLogger - Initializing main logic for module : #37 of 42 SQLUtils (actual: 21)
+19 мар 2020 15:00:32,036  INFO StartLogger - Initializing main logic for module : #38 of 42 Profiler (actual: 25)
+19 мар 2020 15:00:32,052  INFO StartLogger - Initializing main logic for module : #39 of 42 Scheduler (actual: 12)
+19 мар 2020 15:00:32,089  INFO StartLogger - Initializing main logic for module : #40 of 42 EvalScript (actual: 37)
+19 мар 2020 15:00:32,105  INFO StartLogger - Initializing main logic for module : #41 of 42 SchedulerDefaultData (actual: 14)
+19 мар 2020 15:00:32,118  INFO StartLogger - Initializing main logic for module : #42 of 42 Backup (actual: 15)
+19 мар 2020 15:00:32,173  INFO StartLogger - Checking for duplicate elements
+19 мар 2020 15:00:32,192  INFO StartLogger - Filling implicit cases
+19 мар 2020 15:00:32,192  INFO StartLogger - Initializing abstract properties
+19 мар 2020 15:00:32,192  INFO StartLogger - Finalizing abstract actions
+19 мар 2020 15:00:32,213  INFO StartLogger - Checking abstract
+19 мар 2020 15:00:32,213  INFO StartLogger - Initializing fields for data and materialized properties
+19 мар 2020 15:00:32,213  INFO StartLogger - Initializing class aggr props
+19 мар 2020 15:00:32,229  INFO StartLogger - Looking for recursions in abstract actions / properties
+19 мар 2020 15:00:32,272  INFO StartLogger - Setup property policy
+19 мар 2020 15:00:32,272  INFO StartLogger - Finalizing navigator elements
+19 мар 2020 15:00:32,274  INFO StartLogger - Setup drill-down
+19 мар 2020 15:00:32,274  INFO StartLogger - Initializing indices
+19 мар 2020 15:00:32,275  INFO StartLogger - Initializing reflection events
+19 мар 2020 15:00:32,352  INFO StartLogger - Showing dependencies
+19 мар 2020 15:00:32,352  INFO StartLogger - Setup action policy
+19 мар 2020 15:00:32,896  INFO StartLogger - Setting user logging for properties
+19 мар 2020 15:00:32,907  INFO StartLogger - Setting user not null constraints for properties
+19 мар 2020 15:00:32,909  INFO StartLogger - Initializing class data indexes
+19 мар 2020 15:00:32,909  INFO StartLogger - Setup loggables
+19 мар 2020 15:00:32,909  INFO StartLogger - Finalizing forms
+19 мар 2020 15:00:32,909  INFO StartLogger - Building property list
+19 мар 2020 15:00:32,916  INFO StartLogger - Finalizing properties
+19 мар 2020 15:00:33,110  INFO StartLogger - Initializing actions' debugger
+19 мар 2020 15:00:33,111  INFO StartLogger - Synchronizing DB
+19 мар 2020 15:00:33,155  INFO StartLogger - Checking indices
+19 мар 2020 15:00:33,155  INFO StartLogger - Applying migration script (0.0 -> 0.0)
+19 мар 2020 15:00:33,196  INFO StartLogger - Creating tables
+19 мар 2020 15:00:33,204  INFO StartLogger - Packing tables
+19 мар 2020 15:00:33,205  INFO StartLogger - Adding indices
+19 мар 2020 15:00:33,205  INFO StartLogger - Filling static objects ids
+19 мар 2020 15:00:33,378  INFO StartLogger - Updating stats
+19 мар 2020 15:00:33,398  INFO StartLogger - Writing static objects changes
+19 мар 2020 15:00:33,576  INFO StartLogger - Migrating reflection properties and actions
+19 мар 2020 15:00:33,602  INFO StartLogger - Recalculating aggregations
+19 мар 2020 15:00:33,692  INFO StartLogger - Initializing Security Manager.
+19 мар 2020 15:00:33,739  INFO StartLogger - Starting Security Manager.
+19 мар 2020 15:00:33,753  INFO StartLogger - Starting RMI Manager
+19 мар 2020 15:00:33,953  INFO StartLogger - Executing onStarted action
+19 мар 2020 15:00:34,037  INFO SystemLogger - Setting hostname: null
+19 мар 2020 15:00:34,450  INFO StartLogger - Starting Scheduler
+19 мар 2020 15:00:34,468  INFO SystemLogger - Change currentDateTimeSnapshot to 2020-03-19 15:00:34.467
+19 мар 2020 15:00:34,606  INFO StartLogger - Exporting RMI Logics object (port: 7652)
+19 мар 2020 15:00:34,610  INFO SystemLogger - Binding ExternalHttpServer
+19 мар 2020 15:00:34,622  INFO StartLogger - Prereading properties graph
+19 мар 2020 15:00:34,622  INFO StartLogger - Prereading caches for properties
+19 мар 2020 15:00:34,623  INFO StartLogger - Reading modules hash
+19 мар 2020 15:00:34,623  INFO StartLogger - Prereading caches for properties ended
+19 мар 2020 15:00:34,624  INFO StartLogger - Comparing modulesHash: old 23e08156, new 23e08156
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing group properties
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing property entities
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing forms
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing property parents
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing tables
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing navigator elements
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing group objects
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing parents
+19 мар 2020 15:00:34,625  INFO StartLogger - Synchronizing property draws
+19 мар 2020 15:00:34,626  INFO StartLogger - Recalculating Stats at first start
+19 мар 2020 15:00:34,626  INFO StartLogger - Writing modules hash
+19 мар 2020 15:00:34,626  INFO StartLogger - Writing modulesHash 23e08156
+19 мар 2020 15:00:34,645  INFO StartLogger - Writing modulesHash finished successfully
+19 мар 2020 15:00:34,646  INFO StartLogger - Obsolete caches were successfully cleaned
+19 мар 2020 15:00:34,647  INFO StartLogger - Logics instance has successfully started
+19 мар 2020 15:00:34,647  INFO StartLogger - Desktop Client is available at:
+19 мар 2020 15:00:34,647  INFO StartLogger - Java Web Start (with auto update, requires JDK): https://download.lsfusion.org/java/lsfusion-client-3.0.jnlp
+19 мар 2020 15:00:34,647  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-3.0-x64.exe
+19 мар 2020 15:00:34,647  INFO StartLogger - Server has successfully started in 5476 ms.
+19 мар 2020 15:02:58,970  INFO StartLogger - Server is starting...
+19 мар 2020 15:03:00,054  INFO StartLogger - Logics instance is starting...
+19 мар 2020 15:03:00,061  INFO StartLogger - Initializing BusinessLogics
+19 мар 2020 15:03:00,066  INFO StartLogger - Creating modules
+19 мар 2020 15:03:00,066  INFO StartLogger - Initializing localizer
+19 мар 2020 15:03:00,500  INFO StartLogger - Initializing dependencies
+19 мар 2020 15:03:00,632  INFO StartLogger - Initializing modules order
+19 мар 2020 15:03:00,633  INFO StartLogger - Initializing metacodes and classes
+19 мар 2020 15:03:00,880  INFO StartLogger - Initializing object class
+19 мар 2020 15:03:00,882  INFO StartLogger - Initializing tables
+19 мар 2020 15:03:00,938  INFO StartLogger - Initializing class tables
+19 мар 2020 15:03:00,992  INFO StartLogger - Initializing full tables with one key
+19 мар 2020 15:03:00,993  INFO StartLogger - Initializing main logic
+19 мар 2020 15:03:00,998  INFO StartLogger - Initializing main logic for module : #1 of 42 System (actual: 1)
+19 мар 2020 15:03:01,417  INFO StartLogger - Initializing main logic for module : #2 of 42 Authentication (actual: 2)
+19 мар 2020 15:03:01,417  INFO StartLogger - Initializing main logic for module : #4 of 42 DefaultData (actual: 13)
+19 мар 2020 15:03:01,417  INFO StartLogger - Initializing main logic for module : #3 of 42 ProcessUtils (actual: 33)
+19 мар 2020 15:03:01,417  INFO StartLogger - Initializing main logic for module : #6 of 42 Integration (actual: 26)
+19 мар 2020 15:03:01,417  INFO StartLogger - Initializing main logic for module : #5 of 42 Com (actual: 29)
+19 мар 2020 15:03:01,430  INFO StartLogger - Initializing main logic for module : #7 of 42 Time (actual: 4)
+19 мар 2020 15:03:01,430  INFO StartLogger - Initializing main logic for module : #8 of 42 Geo (actual: 34)
+19 мар 2020 15:03:01,431  INFO StartLogger - Initializing main logic for module : #9 of 42 Image (actual: 17)
+19 мар 2020 15:03:01,432  INFO StartLogger - Initializing main logic for module : #10 of 42 Printer (actual: 16)
+19 мар 2020 15:03:01,432  INFO StartLogger - Initializing main logic for module : #11 of 42 MasterData (actual: 6)
+19 мар 2020 15:03:01,434  INFO StartLogger - Initializing main logic for module : #12 of 42 OpenCV (actual: 39)
+19 мар 2020 15:03:01,436  INFO StartLogger - Initializing main logic for module : #13 of 42 Sound (actual: 32)
+19 мар 2020 15:03:01,440  INFO StartLogger - Initializing main logic for module : #14 of 42 Numerator (actual: 18)
+19 мар 2020 15:03:01,440  INFO StartLogger - Initializing main logic for module : #15 of 42 Main (actual: 42)
+19 мар 2020 15:03:01,483  INFO StartLogger - Initializing main logic for module : #16 of 42 Utils (actual: 7)
+19 мар 2020 15:03:01,529  INFO StartLogger - Initializing main logic for module : #17 of 42 I18n (actual: 28)
+19 мар 2020 15:03:01,529  INFO StartLogger - Initializing main logic for module : #18 of 42 Schedule (actual: 40)
+19 мар 2020 15:03:01,530  INFO StartLogger - Initializing main logic for module : #19 of 42 Fax (actual: 41)
+19 мар 2020 15:03:01,531  INFO StartLogger - Initializing main logic for module : #20 of 42 Excel (actual: 24)
+19 мар 2020 15:03:01,549  INFO StartLogger - Initializing main logic for module : #21 of 42 Hierarchy (actual: 23)
+19 мар 2020 15:03:01,551  INFO StartLogger - Initializing main logic for module : #22 of 42 Document (actual: 19)
+19 мар 2020 15:03:01,551  INFO StartLogger - Initializing main logic for module : #23 of 42 Historizable (actual: 22)
+19 мар 2020 15:03:01,552  INFO StartLogger - Initializing main logic for module : #24 of 42 ProcessMonitor (actual: 20)
+19 мар 2020 15:03:01,553  INFO StartLogger - Initializing main logic for module : #25 of 42 Reflection (actual: 3)
+19 мар 2020 15:03:01,624  INFO StartLogger - Initializing main logic for module : #26 of 42 Email (actual: 9)
+19 мар 2020 15:03:01,624  INFO StartLogger - Initializing main logic for module : #27 of 42 SystemEvents (actual: 5)
+19 мар 2020 15:03:01,624  INFO StartLogger - Initializing main logic for module : #28 of 42 Messenger (actual: 30)
+19 мар 2020 15:03:01,641  INFO StartLogger - Initializing main logic for module : #29 of 42 Skype (actual: 36)
+19 мар 2020 15:03:01,642  INFO StartLogger - Initializing main logic for module : #30 of 42 Slack (actual: 38)
+19 мар 2020 15:03:01,645  INFO StartLogger - Initializing main logic for module : #31 of 42 Viber (actual: 35)
+19 мар 2020 15:03:01,653  INFO StartLogger - Initializing main logic for module : #32 of 42 Telegram (actual: 31)
+19 мар 2020 15:03:01,858  INFO StartLogger - Initializing main logic for module : #33 of 42 Security (actual: 10)
+19 мар 2020 15:03:01,858  INFO StartLogger - Initializing main logic for module : #34 of 42 Word (actual: 8)
+19 мар 2020 15:03:01,991  INFO StartLogger - Initializing main logic for module : #35 of 42 Service (actual: 11)
+19 мар 2020 15:03:02,086  INFO StartLogger - Initializing main logic for module : #36 of 42 Scheduler (actual: 12)
+19 мар 2020 15:03:02,086  INFO StartLogger - Initializing main logic for module : #40 of 42 Chat (actual: 27)
+19 мар 2020 15:03:02,086  INFO StartLogger - Initializing main logic for module : #39 of 42 Profiler (actual: 25)
+19 мар 2020 15:03:02,086  INFO StartLogger - Initializing main logic for module : #38 of 42 SQLUtils (actual: 21)
+19 мар 2020 15:03:02,086  INFO StartLogger - Initializing main logic for module : #37 of 42 EvalScript (actual: 37)
+19 мар 2020 15:03:02,125  INFO StartLogger - Initializing main logic for module : #41 of 42 SchedulerDefaultData (actual: 14)
+19 мар 2020 15:03:02,134  INFO StartLogger - Initializing main logic for module : #42 of 42 Backup (actual: 15)
+19 мар 2020 15:03:02,164  INFO StartLogger - Checking for duplicate elements
+19 мар 2020 15:03:02,181  INFO StartLogger - Filling implicit cases
+19 мар 2020 15:03:02,182  INFO StartLogger - Initializing abstract properties
+19 мар 2020 15:03:02,182  INFO StartLogger - Finalizing abstract actions
+19 мар 2020 15:03:02,201  INFO StartLogger - Checking abstract
+19 мар 2020 15:03:02,201  INFO StartLogger - Initializing fields for data and materialized properties
+19 мар 2020 15:03:02,201  INFO StartLogger - Initializing class aggr props
+19 мар 2020 15:03:02,207  INFO StartLogger - Looking for recursions in abstract actions / properties
+19 мар 2020 15:03:02,251  INFO StartLogger - Setup property policy
+19 мар 2020 15:03:02,251  INFO StartLogger - Finalizing navigator elements
+19 мар 2020 15:03:02,252  INFO StartLogger - Setup drill-down
+19 мар 2020 15:03:02,252  INFO StartLogger - Initializing indices
+19 мар 2020 15:03:02,252  INFO StartLogger - Initializing reflection events
+19 мар 2020 15:03:02,366  INFO StartLogger - Showing dependencies
+19 мар 2020 15:03:02,366  INFO StartLogger - Setup action policy
+19 мар 2020 15:03:02,932  INFO StartLogger - Setting user logging for properties
+19 мар 2020 15:03:02,948  INFO StartLogger - Setting user not null constraints for properties
+19 мар 2020 15:03:02,951  INFO StartLogger - Initializing class data indexes
+19 мар 2020 15:03:02,951  INFO StartLogger - Building property list
+19 мар 2020 15:03:02,951  INFO StartLogger - Finalizing forms
+19 мар 2020 15:03:02,951  INFO StartLogger - Setup loggables
+19 мар 2020 15:03:02,960  INFO StartLogger - Finalizing properties
+19 мар 2020 15:03:03,222  INFO StartLogger - Initializing actions' debugger
+19 мар 2020 15:03:03,222  INFO StartLogger - Synchronizing DB
+19 мар 2020 15:03:03,285  INFO StartLogger - Checking indices
+19 мар 2020 15:03:03,286  INFO StartLogger - Applying migration script (0.0 -> 0.0)
+19 мар 2020 15:03:03,364  INFO StartLogger - Creating tables
+19 мар 2020 15:03:03,371  INFO StartLogger - Packing tables
+19 мар 2020 15:03:03,371  INFO StartLogger - Adding indices
+19 мар 2020 15:03:03,371  INFO StartLogger - Filling static objects ids
+19 мар 2020 15:03:03,571  INFO StartLogger - Updating stats
+19 мар 2020 15:03:03,601  INFO StartLogger - Writing static objects changes
+19 мар 2020 15:03:03,809  INFO StartLogger - Migrating reflection properties and actions
+19 мар 2020 15:03:03,854  INFO StartLogger - Recalculating aggregations
+19 мар 2020 15:03:04,001  INFO StartLogger - Initializing Security Manager.
+19 мар 2020 15:03:04,100  INFO StartLogger - Starting Security Manager.
+19 мар 2020 15:03:04,113  INFO StartLogger - Starting RMI Manager
+19 мар 2020 15:03:04,302  INFO StartLogger - Executing onStarted action
+19 мар 2020 15:03:04,430  INFO SystemLogger - Setting hostname: null
+19 мар 2020 15:03:04,936  INFO StartLogger - Starting Scheduler
+19 мар 2020 15:03:04,956  INFO SystemLogger - Change currentDateTimeSnapshot to 2020-03-19 15:03:04.956
+19 мар 2020 15:03:05,113  INFO StartLogger - Exporting RMI Logics object (port: 7652)
+19 мар 2020 15:03:05,117  INFO SystemLogger - Binding ExternalHttpServer
+19 мар 2020 15:03:05,131  INFO StartLogger - Prereading caches for properties
+19 мар 2020 15:03:05,131  INFO StartLogger - Prereading properties graph
+19 мар 2020 15:03:05,131  INFO StartLogger - Reading modules hash
+19 мар 2020 15:03:05,132  INFO StartLogger - Prereading caches for properties ended
+19 мар 2020 15:03:05,133  INFO StartLogger - Comparing modulesHash: old 23e08156, new da08215c
+19 мар 2020 15:03:05,134  INFO StartLogger - Synchronizing forms
+19 мар 2020 15:03:05,134  INFO StartLogger - Synchronizing property entities
+19 мар 2020 15:03:05,134  INFO StartLogger - Synchronizing group properties
+19 мар 2020 15:03:05,135  INFO StartLogger - Synchronizing navigator elements
+19 мар 2020 15:03:05,135  INFO StartLogger - Synchronizing group objects
+19 мар 2020 15:03:05,135  INFO StartLogger - Synchronizing property parents
+19 мар 2020 15:03:05,135  INFO StartLogger - Synchronizing tables
+19 мар 2020 15:03:05,135  INFO StartLogger - synchronizeTables collecting data started
+19 мар 2020 15:03:05,135  INFO StartLogger - Synchronizing property draws
+19 мар 2020 15:03:05,135  INFO StartLogger - Synchronizing parents
+19 мар 2020 15:03:05,136  INFO StartLogger - synchronizeTables integration service started
+19 мар 2020 15:03:10,112  INFO StartLogger - synchronizeTables finished
+19 мар 2020 15:03:10,112  INFO StartLogger - Recalculating Stats at first start
+19 мар 2020 15:03:10,112  INFO StartLogger - Writing modules hash
+19 мар 2020 15:03:10,113  INFO StartLogger - Writing modulesHash da08215c
+19 мар 2020 15:03:10,135  INFO StartLogger - Writing modulesHash finished successfully
+19 мар 2020 15:03:10,138  INFO StartLogger - Obsolete caches were successfully cleaned
+19 мар 2020 15:03:10,138  INFO StartLogger - Logics instance has successfully started
+19 мар 2020 15:03:10,138  INFO StartLogger - Desktop Client is available at:
+19 мар 2020 15:03:10,139  INFO StartLogger - Java Web Start (with auto update, requires JDK): https://download.lsfusion.org/java/lsfusion-client-3.0.jnlp
+19 мар 2020 15:03:10,139  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-3.0-x64.exe
+19 мар 2020 15:03:10,139  INFO StartLogger - Server has successfully started in 11170 ms.
+19 мар 2020 15:10:37,014  INFO StartLogger - Server is starting...
+19 мар 2020 15:10:37,916  INFO StartLogger - Logics instance is starting...
+19 мар 2020 15:10:37,925  INFO StartLogger - Initializing BusinessLogics
+19 мар 2020 15:10:37,929  INFO StartLogger - Creating modules
+19 мар 2020 15:10:37,930  INFO StartLogger - Initializing localizer
+19 мар 2020 15:10:38,329  INFO StartLogger - Initializing dependencies
+19 мар 2020 15:10:38,461  INFO StartLogger - Initializing modules order
+19 мар 2020 15:10:38,463  INFO StartLogger - Initializing metacodes and classes
+19 мар 2020 15:10:38,704  INFO StartLogger - Initializing object class
+19 мар 2020 15:10:38,706  INFO StartLogger - Initializing tables
+19 мар 2020 15:10:38,764  INFO StartLogger - Initializing class tables
+19 мар 2020 15:10:38,810  INFO StartLogger - Initializing full tables with one key
+19 мар 2020 15:10:38,811  INFO StartLogger - Initializing main logic
+19 мар 2020 15:10:38,818  INFO StartLogger - Initializing main logic for module : #1 of 42 System (actual: 1)
+19 мар 2020 15:10:39,223  INFO StartLogger - Initializing main logic for module : #2 of 42 ProcessUtils (actual: 33)
+19 мар 2020 15:10:39,223  INFO StartLogger - Initializing main logic for module : #3 of 42 Integration (actual: 26)
+19 мар 2020 15:10:39,223  INFO StartLogger - Initializing main logic for module : #5 of 42 Printer (actual: 16)
+19 мар 2020 15:10:39,223  INFO StartLogger - Initializing main logic for module : #6 of 42 Geo (actual: 34)
+19 мар 2020 15:10:39,223  INFO StartLogger - Initializing main logic for module : #4 of 42 MasterData (actual: 6)
+19 мар 2020 15:10:39,226  INFO StartLogger - Initializing main logic for module : #7 of 42 OpenCV (actual: 39)
+19 мар 2020 15:10:39,226  INFO StartLogger - Initializing main logic for module : #8 of 42 Com (actual: 29)
+19 мар 2020 15:10:39,227  INFO StartLogger - Initializing main logic for module : #9 of 42 Main (actual: 42)
+19 мар 2020 15:10:39,230  INFO StartLogger - Initializing main logic for module : #10 of 42 Time (actual: 4)
+19 мар 2020 15:10:39,230  INFO StartLogger - Initializing main logic for module : #11 of 42 Authentication (actual: 2)
+19 мар 2020 15:10:39,231  INFO StartLogger - Initializing main logic for module : #12 of 42 DefaultData (actual: 13)
+19 мар 2020 15:10:39,232  INFO StartLogger - Initializing main logic for module : #13 of 42 Image (actual: 17)
+19 мар 2020 15:10:39,234  INFO StartLogger - Initializing main logic for module : #14 of 42 Numerator (actual: 18)
+19 мар 2020 15:10:39,235  INFO StartLogger - Initializing main logic for module : #15 of 42 Sound (actual: 32)
+19 мар 2020 15:10:39,302  INFO StartLogger - Initializing main logic for module : #16 of 42 Utils (actual: 7)
+19 мар 2020 15:10:39,342  INFO StartLogger - Initializing main logic for module : #17 of 42 Historizable (actual: 22)
+19 мар 2020 15:10:39,342  INFO StartLogger - Initializing main logic for module : #18 of 42 Reflection (actual: 3)
+19 мар 2020 15:10:39,345  INFO StartLogger - Initializing main logic for module : #19 of 42 Schedule (actual: 40)
+19 мар 2020 15:10:39,345  INFO StartLogger - Initializing main logic for module : #21 of 42 ProcessMonitor (actual: 20)
+19 мар 2020 15:10:39,345  INFO StartLogger - Initializing main logic for module : #20 of 42 Fax (actual: 41)
+19 мар 2020 15:10:39,356  INFO StartLogger - Initializing main logic for module : #22 of 42 Excel (actual: 24)
+19 мар 2020 15:10:39,367  INFO StartLogger - Initializing main logic for module : #23 of 42 Document (actual: 19)
+19 мар 2020 15:10:39,368  INFO StartLogger - Initializing main logic for module : #24 of 42 I18n (actual: 28)
+19 мар 2020 15:10:39,372  INFO StartLogger - Initializing main logic for module : #25 of 42 Hierarchy (actual: 23)
+19 мар 2020 15:10:39,455  INFO StartLogger - Initializing main logic for module : #26 of 42 Email (actual: 9)
+19 мар 2020 15:10:39,455  INFO StartLogger - Initializing main logic for module : #27 of 42 SystemEvents (actual: 5)
+19 мар 2020 15:10:39,462  INFO StartLogger - Initializing main logic for module : #28 of 42 Messenger (actual: 30)
+19 мар 2020 15:10:39,482  INFO StartLogger - Initializing main logic for module : #29 of 42 Slack (actual: 38)
+19 мар 2020 15:10:39,496  INFO StartLogger - Initializing main logic for module : #30 of 42 Telegram (actual: 31)
+19 мар 2020 15:10:39,503  INFO StartLogger - Initializing main logic for module : #31 of 42 Viber (actual: 35)
+19 мар 2020 15:10:39,504  INFO StartLogger - Initializing main logic for module : #32 of 42 Skype (actual: 36)
+19 мар 2020 15:10:39,654  INFO StartLogger - Initializing main logic for module : #33 of 42 Security (actual: 10)
+19 мар 2020 15:10:39,654  INFO StartLogger - Initializing main logic for module : #34 of 42 Word (actual: 8)
+19 мар 2020 15:10:39,777  INFO StartLogger - Initializing main logic for module : #35 of 42 Service (actual: 11)
+19 мар 2020 15:10:39,864  INFO StartLogger - Initializing main logic for module : #36 of 42 Chat (actual: 27)
+19 мар 2020 15:10:39,865  INFO StartLogger - Initializing main logic for module : #37 of 42 EvalScript (actual: 37)
+19 мар 2020 15:10:39,866  INFO StartLogger - Initializing main logic for module : #38 of 42 Scheduler (actual: 12)
+19 мар 2020 15:10:39,868  INFO StartLogger - Initializing main logic for module : #39 of 42 SQLUtils (actual: 21)
+19 мар 2020 15:10:39,875  INFO StartLogger - Initializing main logic for module : #40 of 42 Profiler (actual: 25)
+19 мар 2020 15:10:39,902  INFO StartLogger - Initializing main logic for module : #41 of 42 SchedulerDefaultData (actual: 14)
+19 мар 2020 15:10:39,904  INFO StartLogger - Initializing main logic for module : #42 of 42 Backup (actual: 15)
+19 мар 2020 15:10:39,939  INFO StartLogger - Checking for duplicate elements
+19 мар 2020 15:10:39,955  INFO StartLogger - Filling implicit cases
+19 мар 2020 15:10:39,956  INFO StartLogger - Initializing abstract properties
+19 мар 2020 15:10:39,956  INFO StartLogger - Finalizing abstract actions
+19 мар 2020 15:10:39,973  INFO StartLogger - Checking abstract
+19 мар 2020 15:10:39,973  INFO StartLogger - Initializing class aggr props
+19 мар 2020 15:10:39,974  INFO StartLogger - Initializing fields for data and materialized properties
+19 мар 2020 15:10:39,980  INFO StartLogger - Looking for recursions in abstract actions / properties
+19 мар 2020 15:10:40,006  INFO StartLogger - Setup property policy
+19 мар 2020 15:10:40,010  INFO StartLogger - Finalizing navigator elements
+19 мар 2020 15:10:40,011  INFO StartLogger - Setup drill-down
+19 мар 2020 15:10:40,012  INFO StartLogger - Initializing indices
+19 мар 2020 15:10:40,012  INFO StartLogger - Initializing reflection events
+19 мар 2020 15:10:40,071  INFO StartLogger - Showing dependencies
+19 мар 2020 15:10:40,071  INFO StartLogger - Setup action policy
+19 мар 2020 15:10:40,705  INFO StartLogger - Setting user logging for properties
+19 мар 2020 15:10:40,716  INFO StartLogger - Setting user not null constraints for properties
+19 мар 2020 15:10:40,718  INFO StartLogger - Initializing class data indexes
+19 мар 2020 15:10:40,718  INFO StartLogger - Building property list
+19 мар 2020 15:10:40,718  INFO StartLogger - Setup loggables
+19 мар 2020 15:10:40,718  INFO StartLogger - Finalizing forms
+19 мар 2020 15:10:40,725  INFO StartLogger - Finalizing properties
+19 мар 2020 15:10:40,920  INFO StartLogger - Initializing actions' debugger
+19 мар 2020 15:10:40,920  INFO StartLogger - Synchronizing DB
+19 мар 2020 15:10:40,961  INFO StartLogger - Checking indices
+19 мар 2020 15:10:40,962  INFO StartLogger - Applying migration script (0.0 -> 0.0)
+19 мар 2020 15:10:41,006  INFO StartLogger - Creating tables
+19 мар 2020 15:10:41,022  INFO StartLogger - Packing tables
+19 мар 2020 15:10:41,022  INFO StartLogger - Adding indices
+19 мар 2020 15:10:41,022  INFO StartLogger - Filling static objects ids
+19 мар 2020 15:10:41,169  INFO StartLogger - Updating stats
+19 мар 2020 15:10:41,188  INFO StartLogger - Writing static objects changes
+19 мар 2020 15:10:41,393  INFO StartLogger - Migrating reflection properties and actions
+19 мар 2020 15:10:41,432  INFO StartLogger - Recalculating aggregations
+19 мар 2020 15:10:41,513  INFO StartLogger - Initializing Security Manager.
+19 мар 2020 15:10:41,565  INFO StartLogger - Starting Security Manager.
+19 мар 2020 15:10:41,577  INFO StartLogger - Starting RMI Manager
+19 мар 2020 15:10:41,787  INFO StartLogger - Executing onStarted action
+19 мар 2020 15:10:41,886  INFO SystemLogger - Setting hostname: null
+19 мар 2020 15:10:42,302  INFO StartLogger - Starting Scheduler
+19 мар 2020 15:10:42,323  INFO SystemLogger - Change currentDateTimeSnapshot to 2020-03-19 15:10:42.323
+19 мар 2020 15:10:42,494  INFO StartLogger - Exporting RMI Logics object (port: 7652)
+19 мар 2020 15:10:42,498  INFO SystemLogger - Binding ExternalHttpServer
+19 мар 2020 15:10:42,511  INFO StartLogger - Prereading caches for properties
+19 мар 2020 15:10:42,511  INFO StartLogger - Reading modules hash
+19 мар 2020 15:10:42,511  INFO StartLogger - Prereading properties graph
+19 мар 2020 15:10:42,511  INFO StartLogger - Prereading caches for properties ended
+19 мар 2020 15:10:42,514  INFO StartLogger - Comparing modulesHash: old da08215c, new 646a2cae
+19 мар 2020 15:10:42,514  INFO StartLogger - Synchronizing group properties
+19 мар 2020 15:10:42,514  INFO StartLogger - Synchronizing property entities
+19 мар 2020 15:10:42,514  INFO StartLogger - Synchronizing forms
+19 мар 2020 15:10:42,514  INFO StartLogger - Synchronizing property parents
+19 мар 2020 15:10:42,514  INFO StartLogger - Synchronizing navigator elements
+19 мар 2020 15:10:42,514  INFO StartLogger - Synchronizing tables
+19 мар 2020 15:10:42,514  INFO StartLogger - Synchronizing group objects
+19 мар 2020 15:10:42,515  INFO StartLogger - synchronizeTables collecting data started
+19 мар 2020 15:10:42,515  INFO StartLogger - Synchronizing parents
+19 мар 2020 15:10:42,515  INFO StartLogger - Synchronizing property draws
+19 мар 2020 15:10:42,516  INFO StartLogger - synchronizeTables integration service started
+19 мар 2020 15:10:47,454  INFO StartLogger - synchronizeTables finished
+19 мар 2020 15:10:47,454  INFO StartLogger - Recalculating Stats at first start
+19 мар 2020 15:10:47,454  INFO StartLogger - Writing modules hash
+19 мар 2020 15:10:47,454  INFO StartLogger - Writing modulesHash 646a2cae
+19 мар 2020 15:10:47,475  INFO StartLogger - Writing modulesHash finished successfully
+19 мар 2020 15:10:47,477  INFO StartLogger - Obsolete caches were successfully cleaned
+19 мар 2020 15:10:47,477  INFO StartLogger - Logics instance has successfully started
+19 мар 2020 15:10:47,478  INFO StartLogger - Desktop Client is available at:
+19 мар 2020 15:10:47,478  INFO StartLogger - Java Web Start (with auto update, requires JDK): https://download.lsfusion.org/java/lsfusion-client-3.0.jnlp
+19 мар 2020 15:10:47,478  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-3.0-x64.exe
+19 мар 2020 15:10:47,478  INFO StartLogger - Server has successfully started in 10464 ms.
+19 мар 2020 15:11:54,868  INFO StartLogger - Server is starting...
+19 мар 2020 15:11:55,910  INFO StartLogger - Logics instance is starting...
+19 мар 2020 15:11:55,916  INFO StartLogger - Initializing BusinessLogics
+19 мар 2020 15:11:55,922  INFO StartLogger - Initializing localizer
+19 мар 2020 15:11:55,922  INFO StartLogger - Creating modules
+19 мар 2020 15:11:56,365  INFO StartLogger - Initializing dependencies
+19 мар 2020 15:11:56,502  INFO StartLogger - Initializing modules order
+19 мар 2020 15:11:56,504  INFO StartLogger - Initializing metacodes and classes
+19 мар 2020 15:11:56,758  INFO StartLogger - Initializing object class
+19 мар 2020 15:11:56,760  INFO StartLogger - Initializing tables
+19 мар 2020 15:11:56,822  INFO StartLogger - Initializing class tables
+19 мар 2020 15:11:56,876  INFO StartLogger - Initializing full tables with one key
+19 мар 2020 15:11:56,877  INFO StartLogger - Initializing main logic
+19 мар 2020 15:11:56,884  INFO StartLogger - Initializing main logic for module : #1 of 42 System (actual: 1)
+19 мар 2020 15:11:57,420  INFO StartLogger - Initializing main logic for module : #2 of 42 ProcessUtils (actual: 33)
+19 мар 2020 15:11:57,420  INFO StartLogger - Initializing main logic for module : #3 of 42 Image (actual: 17)
+19 мар 2020 15:11:57,420  INFO StartLogger - Initializing main logic for module : #5 of 42 Authentication (actual: 2)
+19 мар 2020 15:11:57,420  INFO StartLogger - Initializing main logic for module : #4 of 42 DefaultData (actual: 13)
+19 мар 2020 15:11:57,420  INFO StartLogger - Initializing main logic for module : #6 of 42 Geo (actual: 34)
+19 мар 2020 15:11:57,424  INFO StartLogger - Initializing main logic for module : #7 of 42 Time (actual: 4)
+19 мар 2020 15:11:57,425  INFO StartLogger - Initializing main logic for module : #8 of 42 Integration (actual: 26)
+19 мар 2020 15:11:57,426  INFO StartLogger - Initializing main logic for module : #9 of 42 OpenCV (actual: 39)
+19 мар 2020 15:11:57,440  INFO StartLogger - Initializing main logic for module : #10 of 42 MasterData (actual: 6)
+19 мар 2020 15:11:57,444  INFO StartLogger - Initializing main logic for module : #11 of 42 Printer (actual: 16)
+19 мар 2020 15:11:57,465  INFO StartLogger - Initializing main logic for module : #12 of 42 Main (actual: 42)
+19 мар 2020 15:11:57,465  INFO StartLogger - Initializing main logic for module : #13 of 42 Numerator (actual: 18)
+19 мар 2020 15:11:57,471  INFO StartLogger - Initializing main logic for module : #14 of 42 Com (actual: 29)
+19 мар 2020 15:11:57,472  INFO StartLogger - Initializing main logic for module : #15 of 42 Sound (actual: 32)
+19 мар 2020 15:11:57,524  INFO StartLogger - Initializing main logic for module : #16 of 42 Utils (actual: 7)
+19 мар 2020 15:11:57,571  INFO StartLogger - Initializing main logic for module : #17 of 42 Historizable (actual: 22)
+19 мар 2020 15:11:57,571  INFO StartLogger - Initializing main logic for module : #18 of 42 Reflection (actual: 3)
+19 мар 2020 15:11:57,575  INFO StartLogger - Initializing main logic for module : #19 of 42 ProcessMonitor (actual: 20)
+19 мар 2020 15:11:57,575  INFO StartLogger - Initializing main logic for module : #20 of 42 I18n (actual: 28)
+19 мар 2020 15:11:57,575  INFO StartLogger - Initializing main logic for module : #21 of 42 Excel (actual: 24)
+19 мар 2020 15:11:57,591  INFO StartLogger - Initializing main logic for module : #22 of 42 Schedule (actual: 40)
+19 мар 2020 15:11:57,594  INFO StartLogger - Initializing main logic for module : #23 of 42 Document (actual: 19)
+19 мар 2020 15:11:57,614  INFO StartLogger - Initializing main logic for module : #24 of 42 Hierarchy (actual: 23)
+19 мар 2020 15:11:57,614  INFO StartLogger - Initializing main logic for module : #25 of 42 Fax (actual: 41)
+19 мар 2020 15:11:57,696  INFO StartLogger - Initializing main logic for module : #26 of 42 SystemEvents (actual: 5)
+19 мар 2020 15:11:57,704  INFO StartLogger - Initializing main logic for module : #27 of 42 Messenger (actual: 30)
+19 мар 2020 15:11:57,732  INFO StartLogger - Initializing main logic for module : #28 of 42 Email (actual: 9)
+19 мар 2020 15:11:57,769  INFO StartLogger - Initializing main logic for module : #29 of 42 Slack (actual: 38)
+19 мар 2020 15:11:57,970  INFO StartLogger - Initializing main logic for module : #30 of 42 Viber (actual: 35)
+19 мар 2020 15:11:57,977  INFO StartLogger - Initializing main logic for module : #31 of 42 Skype (actual: 36)
+19 мар 2020 15:11:57,993  INFO StartLogger - Initializing main logic for module : #32 of 42 Telegram (actual: 31)
+19 мар 2020 15:11:57,993  INFO StartLogger - Initializing main logic for module : #33 of 42 Word (actual: 8)
+19 мар 2020 15:11:58,006  INFO StartLogger - Initializing main logic for module : #34 of 42 Security (actual: 10)
+19 мар 2020 15:11:58,093  INFO StartLogger - Initializing main logic for module : #35 of 42 Service (actual: 11)
+19 мар 2020 15:11:58,166  INFO StartLogger - Initializing main logic for module : #36 of 42 SQLUtils (actual: 21)
+19 мар 2020 15:11:58,166  INFO StartLogger - Initializing main logic for module : #38 of 42 Chat (actual: 27)
+19 мар 2020 15:11:58,167  INFO StartLogger - Initializing main logic for module : #39 of 42 Scheduler (actual: 12)
+19 мар 2020 15:11:58,166  INFO StartLogger - Initializing main logic for module : #37 of 42 EvalScript (actual: 37)
+19 мар 2020 15:11:58,172  INFO StartLogger - Initializing main logic for module : #40 of 42 Profiler (actual: 25)
+19 мар 2020 15:11:58,238  INFO StartLogger - Initializing main logic for module : #41 of 42 SchedulerDefaultData (actual: 14)
+19 мар 2020 15:11:58,243  INFO StartLogger - Initializing main logic for module : #42 of 42 Backup (actual: 15)
+19 мар 2020 15:11:58,285  INFO StartLogger - Checking for duplicate elements
+19 мар 2020 15:11:58,298  INFO StartLogger - Filling implicit cases
+19 мар 2020 15:11:58,298  INFO StartLogger - Initializing abstract properties
+19 мар 2020 15:11:58,298  INFO StartLogger - Finalizing abstract actions
+19 мар 2020 15:11:58,329  INFO StartLogger - Checking abstract
+19 мар 2020 15:11:58,330  INFO StartLogger - Initializing class aggr props
+19 мар 2020 15:11:58,331  INFO StartLogger - Initializing fields for data and materialized properties
+19 мар 2020 15:11:58,333  INFO StartLogger - Looking for recursions in abstract actions / properties
+19 мар 2020 15:11:58,375  INFO StartLogger - Setup property policy
+19 мар 2020 15:11:58,376  INFO StartLogger - Finalizing navigator elements
+19 мар 2020 15:11:58,376  INFO StartLogger - Setup drill-down
+19 мар 2020 15:11:58,377  INFO StartLogger - Initializing indices
+19 мар 2020 15:11:58,377  INFO StartLogger - Initializing reflection events
+19 мар 2020 15:11:58,447  INFO StartLogger - Showing dependencies
+19 мар 2020 15:11:58,447  INFO StartLogger - Setup action policy
+19 мар 2020 15:11:59,025  INFO StartLogger - Setting user logging for properties
+19 мар 2020 15:11:59,035  INFO StartLogger - Setting user not null constraints for properties
+19 мар 2020 15:11:59,037  INFO StartLogger - Initializing class data indexes
+19 мар 2020 15:11:59,037  INFO StartLogger - Building property list
+19 мар 2020 15:11:59,037  INFO StartLogger - Finalizing forms
+19 мар 2020 15:11:59,037  INFO StartLogger - Setup loggables
+19 мар 2020 15:11:59,045  INFO StartLogger - Finalizing properties
+19 мар 2020 15:11:59,253  INFO StartLogger - Initializing actions' debugger
+19 мар 2020 15:11:59,254  INFO StartLogger - Synchronizing DB
+19 мар 2020 15:11:59,308  INFO StartLogger - Checking indices
+19 мар 2020 15:11:59,309  INFO StartLogger - Applying migration script (0.0 -> 0.0)
+19 мар 2020 15:11:59,354  INFO StartLogger - Creating tables
+19 мар 2020 15:11:59,362  INFO StartLogger - Packing tables
+19 мар 2020 15:11:59,362  INFO StartLogger - Adding indices
+19 мар 2020 15:11:59,362  INFO StartLogger - Filling static objects ids
+19 мар 2020 15:11:59,594  INFO StartLogger - Updating stats
+19 мар 2020 15:11:59,614  INFO StartLogger - Writing static objects changes
+19 мар 2020 15:11:59,838  INFO StartLogger - Migrating reflection properties and actions
+19 мар 2020 15:11:59,880  INFO StartLogger - Recalculating aggregations
+19 мар 2020 15:12:00,019  INFO StartLogger - Initializing Security Manager.
+19 мар 2020 15:12:00,092  INFO StartLogger - Starting Security Manager.
+19 мар 2020 15:12:00,100  INFO StartLogger - Starting RMI Manager
+19 мар 2020 15:12:00,294  INFO StartLogger - Executing onStarted action
+19 мар 2020 15:12:00,408  INFO SystemLogger - Setting hostname: null
+19 мар 2020 15:12:00,846  INFO StartLogger - Starting Scheduler
+19 мар 2020 15:12:00,874  INFO SystemLogger - Change currentDateTimeSnapshot to 2020-03-19 15:12:00.874
+19 мар 2020 15:12:01,058  INFO StartLogger - Exporting RMI Logics object (port: 7652)
+19 мар 2020 15:12:01,061  INFO SystemLogger - Binding ExternalHttpServer
+19 мар 2020 15:12:01,074  INFO StartLogger - Prereading caches for properties
+19 мар 2020 15:12:01,074  INFO StartLogger - Prereading properties graph
+19 мар 2020 15:12:01,075  INFO StartLogger - Reading modules hash
+19 мар 2020 15:12:01,075  INFO StartLogger - Prereading caches for properties ended
+19 мар 2020 15:12:01,076  INFO StartLogger - Comparing modulesHash: old 646a2cae, new c3a5e77a
+19 мар 2020 15:12:01,077  INFO StartLogger - Synchronizing group properties
+19 мар 2020 15:12:01,077  INFO StartLogger - Synchronizing property entities
+19 мар 2020 15:12:01,077  INFO StartLogger - Synchronizing forms
+19 мар 2020 15:12:01,077  INFO StartLogger - Synchronizing property parents
+19 мар 2020 15:12:01,077  INFO StartLogger - Synchronizing tables
+19 мар 2020 15:12:01,077  INFO StartLogger - synchronizeTables collecting data started
+19 мар 2020 15:12:01,077  INFO StartLogger - Synchronizing navigator elements
+19 мар 2020 15:12:01,077  INFO StartLogger - Synchronizing group objects
+19 мар 2020 15:12:01,078  INFO StartLogger - Synchronizing parents
+19 мар 2020 15:12:01,078  INFO StartLogger - Synchronizing property draws
+19 мар 2020 15:12:01,078  INFO StartLogger - synchronizeTables integration service started
+19 мар 2020 15:12:06,207  INFO StartLogger - synchronizeTables finished
+19 мар 2020 15:12:06,208  INFO StartLogger - Recalculating Stats at first start
+19 мар 2020 15:12:06,208  INFO StartLogger - Writing modules hash
+19 мар 2020 15:12:06,208  INFO StartLogger - Writing modulesHash c3a5e77a
+19 мар 2020 15:12:06,230  INFO StartLogger - Writing modulesHash finished successfully
+19 мар 2020 15:12:06,232  INFO StartLogger - Obsolete caches were successfully cleaned
+19 мар 2020 15:12:06,232  INFO StartLogger - Logics instance has successfully started
+19 мар 2020 15:12:06,232  INFO StartLogger - Desktop Client is available at:
+19 мар 2020 15:12:06,232  INFO StartLogger - Java Web Start (with auto update, requires JDK): https://download.lsfusion.org/java/lsfusion-client-3.0.jnlp
+19 мар 2020 15:12:06,232  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-3.0-x64.exe
+19 мар 2020 15:12:06,232  INFO StartLogger - Server has successfully started in 11365 ms.
