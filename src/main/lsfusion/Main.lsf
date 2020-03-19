@@ -35,6 +35,36 @@ FORM dialogTeam 'Команда'
  
 CONSTRAINT NOT name(Team t) AND t IS Team MESSAGE 'Название команды должно быть заполнено';
 
+CLASS Player 'Игрок';
+
+name 'ФИО' = DATA STRING[30] (Player) IN base NONULL;
+team 'Команда' = DATA Team(Player) NONULL;
+contract 'Контракт до' = DATA DATE(Player);
+nameTeam 'Наименование команды' (Player p) = name(team(p));
+
+TABLE Player (Player);
+
+FORM Player 'Игрок'
+    OBJECTS p = Player PANEL
+    PROPERTIES(p) name, nameTeam, contract
+
+    EDIT Player OBJECT p;
+
+defaultIndex 'Номер п/п' (Player p) = PARTITION SUM 1 IF p IS Player ORDER p CHARWIDTH 5 NOFLEX;
+
+FORM Players 'Игроки'
+    OBJECTS pp = Player
+    PROPERTIES(pp) READONLY defaultIndex, name, nameTeam, contract
+    PROPERTIES(pp) NEWSESSION NEW, EDIT, DELETE
+;
+
+FORM dialogPlayer 'Игрок'
+    OBJECTS  pp = Player
+    PROPERTIES(pp) READONLY name, nameTeam, contract
+
+    LIST Player OBJECT pp
+;
+
 CLASS Game 'Игра';
 
 date 'Дата' = DATA DATE (Game);
@@ -128,9 +158,13 @@ FORM MainFormSingle 'Турнирная таблица'
     ORDER place(team)
 ;
 
+
 NAVIGATOR {
     masterData{
-    NEW Teams FIRST;
+        NEW FOLDER References 'Справочники' {
+            NEW Teams FIRST;
+            NEW Players FIRST;
+        }
     }
     NEW MainForm FIRST;
        
