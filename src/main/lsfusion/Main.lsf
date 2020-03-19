@@ -1,6 +1,7 @@
 MODULE Main;
 
 //Убрал комментарий
+//Добавил комментарий 2
 
 REQUIRE MasterData, System;
 
