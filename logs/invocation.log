@@ -346,3 +346,111 @@
 19 мар 2020 15:17:38,659  INFO PausableInvocationsLogger - Invocation [f: Main.MainForm, m: changePageSize, rq: 0] finished
 19 мар 2020 15:17:38,659  INFO PausableInvocationsLogger - Releasing request lock for [f: Main.MainForm, m: changePageSize, rq: 0] for request #0
 19 мар 2020 15:17:38,659  INFO PausableInvocationsLogger - Released request lock for [f: Main.MainForm, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:03,017  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+20 мар 2020 17:59:03,018  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+20 мар 2020 17:59:03,018  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+20 мар 2020 17:59:03,056  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+20 мар 2020 17:59:03,056  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+20 мар 2020 17:59:03,056  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+20 мар 2020 17:59:08,241  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+20 мар 2020 17:59:08,241  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+20 мар 2020 17:59:08,241  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+20 мар 2020 17:59:08,322  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:08,322  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+20 мар 2020 17:59:08,322  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+20 мар 2020 17:59:08,322  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+20 мар 2020 17:59:09,665  INFO PausableInvocationsLogger - Acquiring request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:09,665  INFO PausableInvocationsLogger - Acquired request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:09,666  INFO PausableInvocationsLogger - Run invocation: [f: Main.Teams, m: changePageSize, rq: 0]
+20 мар 2020 17:59:09,667  INFO PausableInvocationsLogger - Invocation [f: Main.Teams, m: changePageSize, rq: 0] finished
+20 мар 2020 17:59:09,667  INFO PausableInvocationsLogger - Releasing request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:09,667  INFO PausableInvocationsLogger - Released request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:13,582  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+20 мар 2020 17:59:13,583  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+20 мар 2020 17:59:13,583  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+20 мар 2020 17:59:13,602  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:13,602  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+20 мар 2020 17:59:13,602  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+20 мар 2020 17:59:13,602  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+20 мар 2020 17:59:15,722  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+20 мар 2020 17:59:15,722  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+20 мар 2020 17:59:15,722  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 3]
+20 мар 2020 17:59:15,741  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 3] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:15,741  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 3] finished
+20 мар 2020 17:59:15,741  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+20 мар 2020 17:59:15,741  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+20 мар 2020 17:59:16,890  INFO PausableInvocationsLogger - Acquiring request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:16,890  INFO PausableInvocationsLogger - Acquired request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:16,890  INFO PausableInvocationsLogger - Run invocation: [f: Main.Teams, m: changePageSize, rq: 0]
+20 мар 2020 17:59:16,891  INFO PausableInvocationsLogger - Invocation [f: Main.Teams, m: changePageSize, rq: 0] finished
+20 мар 2020 17:59:16,891  INFO PausableInvocationsLogger - Releasing request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:16,891  INFO PausableInvocationsLogger - Released request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:17,145  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+20 мар 2020 17:59:17,145  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+20 мар 2020 17:59:17,145  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 4]
+20 мар 2020 17:59:17,156  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 4] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:17,156  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 4] finished
+20 мар 2020 17:59:17,158  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+20 мар 2020 17:59:17,158  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+20 мар 2020 17:59:18,839  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+20 мар 2020 17:59:18,839  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+20 мар 2020 17:59:18,839  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 5]
+20 мар 2020 17:59:18,858  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 5] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:18,858  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 5] finished
+20 мар 2020 17:59:18,858  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+20 мар 2020 17:59:18,858  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+20 мар 2020 17:59:20,011  INFO PausableInvocationsLogger - Acquiring request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:20,011  INFO PausableInvocationsLogger - Acquired request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:20,012  INFO PausableInvocationsLogger - Run invocation: [f: Main.Teams, m: changePageSize, rq: 0]
+20 мар 2020 17:59:20,012  INFO PausableInvocationsLogger - Invocation [f: Main.Teams, m: changePageSize, rq: 0] finished
+20 мар 2020 17:59:20,012  INFO PausableInvocationsLogger - Releasing request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:20,012  INFO PausableInvocationsLogger - Released request lock for [f: Main.Teams, m: changePageSize, rq: 0] for request #0
+20 мар 2020 17:59:25,123  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+20 мар 2020 17:59:25,123  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+20 мар 2020 17:59:25,123  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 6]
+20 мар 2020 17:59:25,135  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 6] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:25,135  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 6] finished
+20 мар 2020 17:59:25,136  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+20 мар 2020 17:59:25,136  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+20 мар 2020 17:59:26,047  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+20 мар 2020 17:59:26,047  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+20 мар 2020 17:59:26,047  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 7]
+20 мар 2020 17:59:26,059  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 7] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:26,059  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 7] finished
+20 мар 2020 17:59:26,059  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+20 мар 2020 17:59:26,059  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+20 мар 2020 17:59:27,671  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+20 мар 2020 17:59:27,671  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+20 мар 2020 17:59:27,671  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 8]
+20 мар 2020 17:59:27,684  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 8] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:27,684  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 8] finished
+20 мар 2020 17:59:27,684  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+20 мар 2020 17:59:27,684  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+20 мар 2020 17:59:28,454  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 9] for request #9
+20 мар 2020 17:59:28,454  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 9] for request #9
+20 мар 2020 17:59:28,454  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 9]
+20 мар 2020 17:59:28,473  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 9] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:28,473  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 9] finished
+20 мар 2020 17:59:28,473  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 9] for request #9
+20 мар 2020 17:59:28,473  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 9] for request #9
+20 мар 2020 17:59:29,078  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 10] for request #10
+20 мар 2020 17:59:29,078  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 10] for request #10
+20 мар 2020 17:59:29,078  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 10]
+20 мар 2020 17:59:29,091  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 10] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:29,092  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 10] finished
+20 мар 2020 17:59:29,092  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 10] for request #10
+20 мар 2020 17:59:29,092  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 10] for request #10
+20 мар 2020 17:59:30,034  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 11] for request #11
+20 мар 2020 17:59:30,034  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 11] for request #11
+20 мар 2020 17:59:30,034  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 11]
+20 мар 2020 17:59:30,047  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 11] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:30,047  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 11] finished
+20 мар 2020 17:59:30,047  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 11] for request #11
+20 мар 2020 17:59:30,047  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 11] for request #11
+20 мар 2020 17:59:31,263  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 12] for request #12
+20 мар 2020 17:59:31,263  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 12] for request #12
+20 мар 2020 17:59:31,264  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 12]
+20 мар 2020 17:59:31,690  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 12] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+20 мар 2020 17:59:31,690  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 12] finished
+20 мар 2020 17:59:31,690  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 12] for request #12
+20 мар 2020 17:59:31,690  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 12] for request #12
