@@ -2,6 +2,8 @@ MODULE Main;
 
 //Убрал комментарий
 //Добавил комментарий 2
+//Опять закоментарил сколько можно уже.... :)
+// Еще строчечка 56
 
 REQUIRE MasterData, System;
 
@@ -20,7 +22,7 @@ FORM Team 'Команда'
 
 defaultIndex 'Номер п/п' (Team o) = PARTITION SUM 1 IF o IS Team ORDER o CHARWIDTH 4 NOFLEX ;
      
-FORM Teams 'Команды'
+FORM Teams 'Команды ого-го'
     OBJECTS o = Team
     PROPERTIES(o) READONLY defaultIndex, name
     PROPERTIES(o) NEWSESSION NEW, EDIT, DELETE
